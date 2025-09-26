@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0937-online-stock-span) |
+## Array
+|  |
+| ------- |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 <!---LeetCode Topics End-->
