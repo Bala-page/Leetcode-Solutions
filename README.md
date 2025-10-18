@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 ## Array
 |  |
@@ -32,12 +34,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
