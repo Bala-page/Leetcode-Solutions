@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0295-find-median-from-data-stream](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 ## Prefix Sum
 |  |
 | ------- |
