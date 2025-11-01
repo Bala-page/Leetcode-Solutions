@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0937-online-stock-span](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 ## Design
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0937-online-stock-span](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0295-find-median-from-data-stream](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Hash Table
@@ -102,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Bala-page/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
